@@ -1,2 +1,2 @@
-Nama  : Putri Laura Latersia Br. L. Tobing
-Nim   : 191402042
+- Nama  : Putri Laura Latersia Br. L. Tobing
+- Nim   : 191402042
